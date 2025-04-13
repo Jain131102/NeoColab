@@ -8,6 +8,7 @@ Each lab focuses on a different topic related to algorithms and data structures:
 
 | Sr. No. | Title                                | Description                                               |
 |--------:|--------------------------------------|-----------------------------------------------------------|
+| Lab 0 |Base Codes                          | Contains the core logic implementations.            |
 | Lab 1   | Prim's and Kruskal's                 | Implementation of Minimum Spanning Tree algorithms.       |
 | Lab 2   | Strongly Connected Graph             | Algorithms like Kosaraju's or Tarjan's for SCC detection. |
 | Lab 3   | Greedy & Dynamic Programming         | Greedy and DP-based problem solving techniques.           |
