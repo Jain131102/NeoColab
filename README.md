@@ -17,10 +17,16 @@ Each lab focuses on a different topic related to algorithms and data structures:
 | Lab 7   | 0/1 Knapsack                         | Solving the classic 0/1 Knapsack problem using backtracking.|
 | PDF        | Concept Builder 1-7                  | A compiled reference document with multiple-choice question (MCQ) to build conceptual understanding for Labs 1 to 7.|
 
-## License
+##  🤝 Contributors
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+- ![GitHub](https://img.shields.io/badge/GitHub-JoyForCode-blue?style=flat-square) [JoyForCode](https://github.com/JoyForCode)
+- ![GitHub](https://img.shields.io/badge/GitHub-Jain131102-blue?style=flat-square) [Jain131102](https://github.com/Jain131102)
+
+## 📜 License
+
+This project is open-source and available under the ![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square) [MIT License](https://opensource.org/licenses/MIT).
 Feel free to contribute by improving documentation, optimizing code, or adding new exercises!
+
 
 
 
