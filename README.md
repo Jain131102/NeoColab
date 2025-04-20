@@ -17,6 +17,7 @@ Each lab focuses on a different topic related to algorithms and data structures:
 | Lab 6   | Binary Search Tree                   | Implementation and traversal of BSTs.                     |
 | Lab 7   | 0/1 Knapsack                         | Solving the classic 0/1 Knapsack problem using backtracking.|
 | PDF        | Concept Builder 1-7                  | A compiled reference document with multiple-choice question (MCQ) to build conceptual understanding for Labs 1 to 7.|
+| Excel Sheet        | Concept Builder - Practice                  | 200 multiple-choice question (MCQ) to practice more .|
 
 ##  🤝 Contributors
 
